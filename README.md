@@ -6,3 +6,5 @@ Code coming soon:
 - Perform extraction by selection for a small set of CLIP image / name features.
 
 We do not plan to release the datasets (VGGFace2 + names from wikipedia).
+
+"Multi-modal identity extraction," Ryan Webster, Teddy Furon, ICCV 2025.
